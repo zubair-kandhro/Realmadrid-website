@@ -4,3 +4,5 @@ This is my first semester project on Real Madrid football website. It is built w
 For live preview click on this link: <a href="https://zubair-kandhro.github.io/Realmadrid-website/" target="_blank">link</a>
 
 <a href="https://zubair-kandhro.github.io/Realmadrid-website/" target="_blank">link</a>
+
+[link](https://zubair-kandhro.github.io/Realmadrid-website/){:target="_blank" rel="noopener"}
